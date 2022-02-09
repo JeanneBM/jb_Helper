@@ -1,4 +1,4 @@
-FISZKI 
+'''
 • język obcy ◦ W mojej rodzinie mówi się wieloma językami obcymi.
 • die Fremdsprache, -n ◦ In meiner Familie spricht man viele Fremdsprachen.
 
@@ -211,3 +211,4 @@ FISZKI
 • arbeiten an ◦ Verschiedene Arbeitsgruppen arbeiten an unserem Projekt.
 • trwać ◦ To trwa dla mnie zbyt długo.
 • dauern ◦ Das dauert mir zu lange.
+'''
