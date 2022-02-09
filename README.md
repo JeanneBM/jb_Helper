@@ -1,4 +1,4 @@
-FISZKI CAPGEMINI
+FISZKI 
 • język obcy ◦ W mojej rodzinie mówi się wieloma językami obcymi.
 • die Fremdsprache, -n ◦ In meiner Familie spricht man viele Fremdsprachen.
 
