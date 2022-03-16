@@ -29,3 +29,5 @@ https://docs.sonarqube.org/latest/extend/developing-plugin/
 
 https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/suppress-warnings
 https://docs.microsoft.com/pl-pl/dotnet/api/system.diagnostics?view=net-6.0
+
+https://docs.microsoft.com/pl-pl/dotnet/api/system.diagnostics.codeanalysis.suppressmessageattribute?view=net-6.0
