@@ -1,3 +1,8 @@
+Book 1:
+https://www.manning.com/books/sonarqube-in-action
+
+
+
 https://tomgregory.com/sonarqube-quality-gates-in-jenkins-build-pipeline/
 https://dev.to/jeiman/part-2-automating-code-quality-scanning-using-sonar-cloud-and-github-actions-8g7
 https://objectscriptquality.com/article/quality-profiles-customize-your-set-rules
@@ -36,6 +41,7 @@ https://docs.sonarqube.org/latest/analysis/languages/java/
 
 
 
-https://www.youtube.com/watch?v=lwqfVLfBn4s || SonarQube Advance Tutorial for Beginners with Demo (2020) — By DevOpsSchool
+https://www.youtube.com/watch?v=lwqfVLfBn4s || SonarQube Advance Tutorial for Beginners with Demo (2020) — By DevOpsSchool 3h
 
-https://www.manning.com/books/sonarqube-in-action
+Scanner:
+https://medium.com/swlh/sonarqube-sonarscanner-setup-1a633b654828
