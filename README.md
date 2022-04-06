@@ -1,3 +1,6 @@
+https://zumpad.zum.de/p/CapGe_KI_Januar_M%C3%A4rz_2022
+https://zumpad.zum.de/p/CapGe_KI_Januar_M%C3%A4rz_2022_a
+
 ```
 • język obcy ◦ W mojej rodzinie mówi się wieloma językami obcymi.
 • die Fremdsprache, -n ◦ In meiner Familie spricht man viele Fremdsprachen.
